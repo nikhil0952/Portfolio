@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion"
-import Untitled from "/Users/nikhilwalia/Coding/Projects/portfolio/src/Components/Untitled.jpg";
+import Untitled from "../../Untitled.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHeart, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
